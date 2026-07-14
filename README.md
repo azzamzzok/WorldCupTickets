@@ -42,12 +42,12 @@ Edit `config.json`:
 {
   "gmail_address": "the-account-that-sends@gmail.com",
   "gmail_app_password": "the 16 char app password",
-  "recipient": "azzamsidhu2@gmail.com"
+  "recipient": "yourname@gmail.com"
 }
 ```
 
 The sending account can be any Gmail you own; the `recipient` is where alerts
-land (already set to `azzamsidhu2@gmail.com`).
+land (already set to `yourname@gmail.com`).
 
 ### b) Confirm it works
 
