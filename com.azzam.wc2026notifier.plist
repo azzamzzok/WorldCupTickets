@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.azzam.wc2026notifier</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>__DIR__/notifier.py</string>
+        <string>run</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>__DIR__</string>
+
+    <!-- Start automatically at login and keep it running forever. -->
+    <key>RunAtLoad</key>
+    <true/>
+    <key>KeepAlive</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>__DIR__/data/notifier.log</string>
+    <key>StandardErrorPath</key>
+    <string>__DIR__/data/notifier.err.log</string>
+</dict>
+</plist>

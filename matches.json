@@ -1,0 +1,790 @@
+{
+  "scraped_at": "2026-07-04T14:19:13.292144+00:00",
+  "count": 16,
+  "matches": [
+    {
+      "event_id": "5655c1fb-bb0b-46ca-a5cf-e1b571765bf0",
+      "match_no": 90,
+      "name": "Round of 16 Canada vs Morocco - World Cup 2026 - M90",
+      "description": "Match 90\nRound of 16, Winner of match 73 vs Winner of match 75",
+      "url": "https://www.ticombo.com/en/e/match-90-r16-w73-vs-w75-football-world-cup-2026-2607042359",
+      "kickoff_utc": "2026-07-04T17:00:00+00:00",
+      "local_time": "2026-07-04T12:00:00.000Z",
+      "timezone": "America/Chicago",
+      "venue": "Houston Stadium",
+      "city": "Houston",
+      "country": "US",
+      "available_tickets": 433,
+      "start_price": 393.34,
+      "avg_price": 1617.75,
+      "max_price": 40592.99,
+      "categories": [
+        {
+          "category": "Category 1",
+          "avg_price": 1020.37,
+          "available": 70
+        },
+        {
+          "category": "Category 3",
+          "avg_price": 813.57,
+          "available": 56
+        },
+        {
+          "category": "Category 2",
+          "avg_price": 769.05,
+          "available": 28
+        },
+        {
+          "category": "Supporters Standard Tier",
+          "avg_price": 1115.15,
+          "available": 6
+        },
+        {
+          "category": "Front Category 1",
+          "avg_price": 1212.73,
+          "available": 5
+        },
+        {
+          "category": "Supporters Entry Tier",
+          "avg_price": 580,
+          "available": 2
+        }
+      ]
+    },
+    {
+      "event_id": "61466c8f-aeda-494b-8cb7-d9f2321d13ff",
+      "match_no": 89,
+      "name": "Round of 16 Paraguay vs France - World Cup 2026 - M89",
+      "description": "Match 89\nRound of 16, Winner of match 74 vs Winner of match 77",
+      "url": "https://www.ticombo.com/en/e/match-89-r16-w74-vs-w77-football-world-cup-2026-2607042359",
+      "kickoff_utc": "2026-07-04T21:00:00+00:00",
+      "local_time": "2026-07-04T17:00:00.000Z",
+      "timezone": "America/New_York",
+      "venue": "Philadelphia Stadium",
+      "city": "Philadelphia",
+      "country": "US",
+      "available_tickets": 479,
+      "start_price": 495,
+      "avg_price": 1445.743333333333,
+      "max_price": 17389.97,
+      "categories": [
+        {
+          "category": "Category 1",
+          "avg_price": 1092.61,
+          "available": 73
+        },
+        {
+          "category": "Category 2",
+          "avg_price": 1032.43,
+          "available": 46
+        },
+        {
+          "category": "Category 3",
+          "avg_price": 2313.49,
+          "available": 36
+        },
+        {
+          "category": "Champions Club Suite",
+          "avg_price": 1353.71,
+          "available": 2
+        },
+        {
+          "category": "VIP",
+          "avg_price": 2796.84,
+          "available": 2
+        },
+        {
+          "category": "Trophy Lounge",
+          "avg_price": 2141.51,
+          "available": 2
+        }
+      ]
+    },
+    {
+      "event_id": "03fbd76d-9a7b-443b-83e0-ef6bd664fe70",
+      "match_no": 91,
+      "name": "Round of 16 Brazil vs Norway - World Cup 2026 - M91",
+      "description": "Match 91\nRound of 16, Winner of match 76 vs Winner of match 78",
+      "url": "https://www.ticombo.com/en/e/match-91-r16-w76-vs-w78-football-world-cup-2026-2607052359",
+      "kickoff_utc": "2026-07-05T20:00:00+00:00",
+      "local_time": "2026-07-05T16:00:00.000Z",
+      "timezone": "America/New_York",
+      "venue": "New York New Jersey Stadium",
+      "city": "New York New Jersey",
+      "country": "US",
+      "available_tickets": 736,
+      "start_price": 1108.96,
+      "avg_price": 2344.4266666666667,
+      "max_price": 87304.11,
+      "categories": [
+        {
+          "category": "Category 1",
+          "avg_price": 2225.56,
+          "available": 120
+        },
+        {
+          "category": "Category 3",
+          "avg_price": 1802.74,
+          "available": 59
+        },
+        {
+          "category": "Category 2",
+          "avg_price": 2446.78,
+          "available": 56
+        },
+        {
+          "category": "Trophy Lounge",
+          "avg_price": 2921.44,
+          "available": 14
+        },
+        {
+          "category": "FIFA Pavilion",
+          "avg_price": 2408.98,
+          "available": 14
+        },
+        {
+          "category": "VIP",
+          "avg_price": 3250.74,
+          "available": 7
+        }
+      ]
+    },
+    {
+      "event_id": "9eb3d927-c645-4c56-8d7a-3a9735956a03",
+      "match_no": 92,
+      "name": "Round of 16 Mexico vs England - World Cup 2026 - M92",
+      "description": "Match 92\nRound of 16, Winner of match 79 vs Winner of match 80 ",
+      "url": "https://www.ticombo.com/en/e/match-92-r16-w79-vs-w80-football-world-cup-2026-2607052359",
+      "kickoff_utc": "2026-07-06T00:00:00+00:00",
+      "local_time": "2026-07-05T18:00:00.000Z",
+      "timezone": "America/Mexico_City",
+      "venue": "Estadio Banorte",
+      "city": "Mexico City",
+      "country": "MX",
+      "available_tickets": 596,
+      "start_price": 2500,
+      "avg_price": 5200.76,
+      "max_price": 27777,
+      "categories": [
+        {
+          "category": "Category 1",
+          "avg_price": 6032.72,
+          "available": 92
+        },
+        {
+          "category": "Category 3",
+          "avg_price": 4531.12,
+          "available": 70
+        },
+        {
+          "category": "Category 2",
+          "avg_price": 5809.08,
+          "available": 45
+        },
+        {
+          "category": "Category 4",
+          "avg_price": 5651.41,
+          "available": 12
+        },
+        {
+          "category": "FIFA Pavilion",
+          "avg_price": 7812.92,
+          "available": 6
+        },
+        {
+          "category": "Champions Club",
+          "avg_price": 6429.04,
+          "available": 6
+        }
+      ]
+    },
+    {
+      "event_id": "693ee3f0-260e-4f65-9cf7-fd6c98db4be9",
+      "match_no": 93,
+      "name": "Round of 16 Portugal vs Spain - World Cup 2026 - M93",
+      "description": "Match 93\nRound of 16, Winner of match 83 vs Winner of match 84",
+      "url": "https://www.ticombo.com/en/e/match-93-r16-w83-vs-w84-football-world-cup-2026-2607062359",
+      "kickoff_utc": "2026-07-06T19:00:00+00:00",
+      "local_time": "2026-07-06T14:00:00.000Z",
+      "timezone": "America/Chicago",
+      "venue": "Dallas Stadium",
+      "city": "Dallas",
+      "country": "US",
+      "available_tickets": 1314,
+      "start_price": 1025,
+      "avg_price": 2650.8766666666666,
+      "max_price": 31075.47,
+      "categories": [
+        {
+          "category": "Category 1",
+          "avg_price": 4214.63,
+          "available": 137
+        },
+        {
+          "category": "Category 3",
+          "avg_price": 2621.09,
+          "available": 80
+        },
+        {
+          "category": "Supporters Value Tier",
+          "avg_price": 1623.28,
+          "available": 65
+        },
+        {
+          "category": "Category 2",
+          "avg_price": 3303.3,
+          "available": 52
+        },
+        {
+          "category": "Trophy Lounge",
+          "avg_price": 4059.04,
+          "available": 19
+        },
+        {
+          "category": "Supporters Standard Tier",
+          "avg_price": 1923.58,
+          "available": 9
+        }
+      ]
+    },
+    {
+      "event_id": "0cee6cc1-6382-42a8-abc0-7b72e329b05a",
+      "match_no": 94,
+      "name": "Round of 16 USA vs Belgium - World Cup 2026 - M94",
+      "description": "Match 94\nRound of 16, Winner of match 81 vs Winner of match 82",
+      "url": "https://www.ticombo.com/en/e/match-94-r16-w81-vs-w82-football-world-cup-2026-2607062359",
+      "kickoff_utc": "2026-07-07T00:00:00+00:00",
+      "local_time": "2026-07-06T17:00:00.000Z",
+      "timezone": "America/Los_Angeles",
+      "venue": "Seattle Stadium",
+      "city": "Seattle",
+      "country": "US",
+      "available_tickets": 1037,
+      "start_price": 1000,
+      "avg_price": 2945.436666666667,
+      "max_price": 27777,
+      "categories": [
+        {
+          "category": "Category 2",
+          "avg_price": 2620.07,
+          "available": 102
+        },
+        {
+          "category": "Category 1",
+          "avg_price": 5242.13,
+          "available": 53
+        },
+        {
+          "category": "Category 3",
+          "avg_price": 4061.53,
+          "available": 48
+        },
+        {
+          "category": "FIFA Pavilion",
+          "avg_price": 3829.48,
+          "available": 21
+        },
+        {
+          "category": "Supporters Entry Tier",
+          "avg_price": 1293.4,
+          "available": 12
+        },
+        {
+          "category": "Supporters Value Tier",
+          "avg_price": 1935,
+          "available": 4
+        }
+      ]
+    },
+    {
+      "event_id": "1b5ccffd-3adb-4d8c-898c-c552e0f0271f",
+      "match_no": 95,
+      "name": "Round of 16 Argentina vs Egypt - World Cup 2026 - M95",
+      "description": "Match 95\nRound of 16, Winner of match 86 vs Winner of match 88",
+      "url": "https://www.ticombo.com/en/e/match-95-r16-w86-vs-w88-football-world-cup-2026-2607072359",
+      "kickoff_utc": "2026-07-07T16:00:00+00:00",
+      "local_time": "2026-07-07T12:00:00.000Z",
+      "timezone": "America/New_York",
+      "venue": "Atlanta Stadium",
+      "city": "Atlanta",
+      "country": "US",
+      "available_tickets": 679,
+      "start_price": 1299,
+      "avg_price": 3128.34,
+      "max_price": 27777,
+      "categories": [
+        {
+          "category": "Category 2",
+          "avg_price": 3456.45,
+          "available": 79
+        },
+        {
+          "category": "Category 1",
+          "avg_price": 5069.16,
+          "available": 50
+        },
+        {
+          "category": "Category 3",
+          "avg_price": 3956.99,
+          "available": 48
+        },
+        {
+          "category": "Trophy Lounge",
+          "avg_price": 4807.37,
+          "available": 6
+        },
+        {
+          "category": "Supporters Value Tier",
+          "avg_price": 1739.43,
+          "available": 4
+        },
+        {
+          "category": "Front Category 1",
+          "avg_price": 3359.11,
+          "available": 4
+        }
+      ]
+    },
+    {
+      "event_id": "0d5f780d-bbe1-41d7-afdd-00135a444306",
+      "match_no": 96,
+      "name": "Round of 16 Switzerland vs Colombia - World Cup 2026 - M96",
+      "description": "Match 96\nRound of 16, Winner of match 85 vs Winner of match 87",
+      "url": "https://www.ticombo.com/en/e/match-96-r16-w85-vs-w87-football-world-cup-2026-2607072359",
+      "kickoff_utc": "2026-07-07T20:00:00+00:00",
+      "local_time": "2026-07-07T13:00:00.000Z",
+      "timezone": "America/Vancouver",
+      "venue": "BC Place Vancouver",
+      "city": "Vancouver",
+      "country": "CA",
+      "available_tickets": 872,
+      "start_price": 630.29,
+      "avg_price": 1585.46,
+      "max_price": 27777,
+      "categories": [
+        {
+          "category": "Category 1",
+          "avg_price": 2504.89,
+          "available": 94
+        },
+        {
+          "category": "Category 3",
+          "avg_price": 2117.29,
+          "available": 90
+        },
+        {
+          "category": "Category 2",
+          "avg_price": 2039.97,
+          "available": 82
+        },
+        {
+          "category": "Front Category 2",
+          "avg_price": 1459.6,
+          "available": 16
+        },
+        {
+          "category": "Lounge 1930",
+          "avg_price": 5018.23,
+          "available": 11
+        },
+        {
+          "category": "Supporters Entry Tier",
+          "avg_price": 664.71,
+          "available": 4
+        }
+      ]
+    },
+    {
+      "event_id": "b78585ac-a0f6-483c-994d-ced8a1635edb",
+      "match_no": 97,
+      "name": "Quarterfinal W89 vs W90 World Cup 2026 - M97",
+      "description": "Match 97\nQuarterfinals, Winner of match 89 vs Winner of match 90",
+      "url": "https://www.ticombo.com/en/e/match-97-qf-w89-vs-w90-football-world-cup-2026-2607092359",
+      "kickoff_utc": "2026-07-09T20:00:00+00:00",
+      "local_time": "2026-07-09T16:00:00.000Z",
+      "timezone": "America/New_York",
+      "venue": "Boston Stadium",
+      "city": "Boston",
+      "country": "US",
+      "available_tickets": 717,
+      "start_price": 1590.6,
+      "avg_price": 3260.403333333333,
+      "max_price": 27777,
+      "categories": [
+        {
+          "category": "Category 2",
+          "avg_price": 3264.92,
+          "available": 127
+        },
+        {
+          "category": "Category 1",
+          "avg_price": 4741,
+          "available": 65
+        },
+        {
+          "category": "Category 3",
+          "avg_price": 4710.63,
+          "available": 37
+        },
+        {
+          "category": "Pitchside Lounge",
+          "avg_price": 4588.56,
+          "available": 5
+        },
+        {
+          "category": "Category 4",
+          "avg_price": 2294.28,
+          "available": 5
+        },
+        {
+          "category": "VIP",
+          "avg_price": 4064.15,
+          "available": 5
+        }
+      ]
+    },
+    {
+      "event_id": "92d1b810-e297-4916-a71c-8d4b29db92b1",
+      "match_no": 98,
+      "name": "Quarterfinal W93 vs W94 World Cup 2026 - M98",
+      "description": "Match 98\nQuarterfinals, Winner of match 93 vs Winner of match 94",
+      "url": "https://www.ticombo.com/en/e/match-98-qf-w93-vs-w94-football-world-cup-2026-2607102359",
+      "kickoff_utc": "2026-07-10T19:00:00+00:00",
+      "local_time": "2026-07-10T12:00:00.000Z",
+      "timezone": "America/Los_Angeles",
+      "venue": "Los Angeles Stadium",
+      "city": "Los Angeles",
+      "country": "US",
+      "available_tickets": 557,
+      "start_price": 2500,
+      "avg_price": 6756.906666666667,
+      "max_price": 27777,
+      "categories": [
+        {
+          "category": "Category 2",
+          "avg_price": 5845.15,
+          "available": 57
+        },
+        {
+          "category": "Category 1",
+          "avg_price": 8025.81,
+          "available": 44
+        },
+        {
+          "category": "Category 3",
+          "avg_price": 8088.24,
+          "available": 37
+        },
+        {
+          "category": "Champions Club",
+          "avg_price": 7392.46,
+          "available": 26
+        },
+        {
+          "category": "Trophy Lounge",
+          "avg_price": 7399.96,
+          "available": 6
+        },
+        {
+          "category": "Pitchside Lounge",
+          "avg_price": 13436.61,
+          "available": 6
+        }
+      ]
+    },
+    {
+      "event_id": "aeb3f3aa-3c4b-49a7-b36d-5e31bbd0138b",
+      "match_no": 99,
+      "name": "Quarterfinal W91 vs W92 World Cup 2026 - M99",
+      "description": "Match 99\nQuarterfinals, Winner of match 91 vs Winner of match 92",
+      "url": "https://www.ticombo.com/en/e/match-99-qf-w91-vs-w92-football-world-cup-2026-2607112359",
+      "kickoff_utc": "2026-07-11T21:00:00+00:00",
+      "local_time": "2026-07-11T17:00:00.000Z",
+      "timezone": "America/New_York",
+      "venue": "Miami Stadium",
+      "city": "Miami",
+      "country": "US",
+      "available_tickets": 634,
+      "start_price": 2784.08,
+      "avg_price": 6661.25,
+      "max_price": 27777,
+      "categories": [
+        {
+          "category": "Category 1",
+          "avg_price": 7366.86,
+          "available": 67
+        },
+        {
+          "category": "Category 3",
+          "avg_price": 6484.41,
+          "available": 38
+        },
+        {
+          "category": "Category 2",
+          "avg_price": 7173.6,
+          "available": 36
+        },
+        {
+          "category": "FIFA Pavilion",
+          "avg_price": 7223.15,
+          "available": 16
+        },
+        {
+          "category": "Trophy Lounge",
+          "avg_price": 8599.4,
+          "available": 6
+        },
+        {
+          "category": "Pitchside Lounge",
+          "avg_price": 8784.05,
+          "available": 5
+        }
+      ]
+    },
+    {
+      "event_id": "4920450d-7bd6-4257-bdef-b44be6702fbd",
+      "match_no": 100,
+      "name": "Quarterfinal W95 vs W96 World Cup 2026 - M100",
+      "description": "Match 100\nQuarterfinals, Winner of match 95 vs Winner of match 96",
+      "url": "https://www.ticombo.com/en/e/match-100-qf-w95-vs-w96-football-world-cup-2026-2607112359",
+      "kickoff_utc": "2026-07-12T01:00:00+00:00",
+      "local_time": "2026-07-11T20:00:00.000Z",
+      "timezone": "America/Chicago",
+      "venue": "Kansas City Stadium",
+      "city": "Kansas City",
+      "country": "US",
+      "available_tickets": 827,
+      "start_price": 1791.72,
+      "avg_price": 4673.776666666667,
+      "max_price": 27777,
+      "categories": [
+        {
+          "category": "Category 2",
+          "avg_price": 5122.51,
+          "available": 142
+        },
+        {
+          "category": "Category 3",
+          "avg_price": 4903.58,
+          "available": 78
+        },
+        {
+          "category": "Category 1",
+          "avg_price": 5681.14,
+          "available": 77
+        },
+        {
+          "category": "FIFA Pavilion",
+          "avg_price": 3782.92,
+          "available": 41
+        },
+        {
+          "category": "Pitchside Lounge",
+          "avg_price": 20267.01,
+          "available": 6
+        },
+        {
+          "category": "Trophy Lounge",
+          "avg_price": 7806.23,
+          "available": 6
+        }
+      ]
+    },
+    {
+      "event_id": "049d9d94-d7ac-4200-a6d1-e61883750a98",
+      "match_no": 101,
+      "name": "Semifinal W97 vs W98 World Cup 2026 - M101",
+      "description": "Match 101\nSemi Finals, Winner of match 97 vs Winner of match 98",
+      "url": "https://www.ticombo.com/en/e/match-101-sf-w97-vs-w98-football-world-cup-2026-2607142359",
+      "kickoff_utc": "2026-07-14T19:00:00+00:00",
+      "local_time": "2026-07-14T14:00:00.000Z",
+      "timezone": "America/Chicago",
+      "venue": "Dallas Stadium",
+      "city": "Dallas",
+      "country": "US",
+      "available_tickets": 729,
+      "start_price": 2971.64,
+      "avg_price": 8051.896666666667,
+      "max_price": 28144.91,
+      "categories": [
+        {
+          "category": "Category 2",
+          "avg_price": 6846.04,
+          "available": 101
+        },
+        {
+          "category": "Category 1",
+          "avg_price": 8724.14,
+          "available": 84
+        },
+        {
+          "category": "Category 3",
+          "avg_price": 6590.39,
+          "available": 35
+        },
+        {
+          "category": "Trophy Lounge",
+          "avg_price": 9905.46,
+          "available": 6
+        },
+        {
+          "category": "Easy Access Category 2",
+          "avg_price": 3496.05,
+          "available": 1
+        },
+        {
+          "category": "Champions Club Suite",
+          "avg_price": 8740.11,
+          "available": 1
+        }
+      ]
+    },
+    {
+      "event_id": "1a97811f-92b8-45f1-9cfe-6e6f1be00048",
+      "match_no": 102,
+      "name": "Semifinal W99 vs W100 - World Cup 2026 - M102",
+      "description": "Match 102\nSemi Finals, Winner of match 99 vs Winner of match 100",
+      "url": "https://www.ticombo.com/en/e/match-102-sf-w99-vs-w100-football-world-cup-2026-2607152359",
+      "kickoff_utc": "2026-07-15T19:00:00+00:00",
+      "local_time": "2026-07-15T15:00:00.000Z",
+      "timezone": "America/New_York",
+      "venue": "Atlanta Stadium",
+      "city": "Atlanta",
+      "country": "US",
+      "available_tickets": 687,
+      "start_price": 3151.79,
+      "avg_price": 7841.543333333332,
+      "max_price": 31687.38,
+      "categories": [
+        {
+          "category": "Category 2",
+          "avg_price": 7704.04,
+          "available": 103
+        },
+        {
+          "category": "Category 3",
+          "avg_price": 5236.55,
+          "available": 98
+        },
+        {
+          "category": "Category 1",
+          "avg_price": 11152.42,
+          "available": 50
+        },
+        {
+          "category": "Supporters Premier Tier",
+          "avg_price": 6773.59,
+          "available": 4
+        },
+        {
+          "category": "Hospitality Supporters Club",
+          "avg_price": 4710.09,
+          "available": 4
+        },
+        {
+          "category": "Category 4",
+          "avg_price": 8739.24,
+          "available": 4
+        }
+      ]
+    },
+    {
+      "event_id": "65970323-b2da-4efe-88dd-ff187033f4ac",
+      "match_no": 103,
+      "name": "Bronze Final - World Cup 2026 - M103",
+      "description": "Match 103\nBronze Final, Loser of match 101 vs Loser of match 102",
+      "url": "https://www.ticombo.com/en/e/match-103-bronze-final-l101-vs-l102-football-world-cup-2026-2607182359",
+      "kickoff_utc": "2026-07-18T21:00:00+00:00",
+      "local_time": "2026-07-18T17:00:00.000Z",
+      "timezone": "America/New_York",
+      "venue": "Miami Stadium",
+      "city": "Miami",
+      "country": "US",
+      "available_tickets": 517,
+      "start_price": 1429.98,
+      "avg_price": 4321.09,
+      "max_price": 23346.59,
+      "categories": [
+        {
+          "category": "Category 2",
+          "avg_price": 2684.31,
+          "available": 71
+        },
+        {
+          "category": "Category 3",
+          "avg_price": 3418,
+          "available": 62
+        },
+        {
+          "category": "Category 1",
+          "avg_price": 3826.19,
+          "available": 54
+        },
+        {
+          "category": "Category 4",
+          "avg_price": 4234.31,
+          "available": 16
+        },
+        {
+          "category": "Front Category 2",
+          "avg_price": 3146.44,
+          "available": 4
+        },
+        {
+          "category": "FIFA Pavilion",
+          "avg_price": 5996.05,
+          "available": 2
+        }
+      ]
+    },
+    {
+      "event_id": "6a99d429-3ad2-43b6-97ed-14acae5e8bcc",
+      "match_no": 104,
+      "name": "FINAL - World Cup 2026 - M104",
+      "description": "Match 104 Final, Winner of match 101 vs Winner of match 102",
+      "url": "https://www.ticombo.com/en/e/match-104-final-w101-vs-w102-football-world-cup-2026-2607192359",
+      "kickoff_utc": "2026-07-19T19:00:00+00:00",
+      "local_time": "2026-07-19T15:00:00.000Z",
+      "timezone": "America/New_York",
+      "venue": "New York New Jersey Stadium",
+      "city": "New York New Jersey",
+      "country": "US",
+      "available_tickets": 1179,
+      "start_price": 8740.11,
+      "avg_price": 32433.273333333334,
+      "max_price": 243557.96,
+      "categories": [
+        {
+          "category": "Category 1",
+          "avg_price": 32331.86,
+          "available": 115
+        },
+        {
+          "category": "Category 3",
+          "avg_price": 15588.47,
+          "available": 101
+        },
+        {
+          "category": "Category 2",
+          "avg_price": 15477.56,
+          "available": 75
+        },
+        {
+          "category": "VIP",
+          "avg_price": 160000,
+          "available": 20
+        },
+        {
+          "category": "Suites",
+          "avg_price": 69920.9,
+          "available": 20
+        },
+        {
+          "category": "Category 4",
+          "avg_price": 10856.72,
+          "available": 14
+        }
+      ]
+    }
+  ]
+}
